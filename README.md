@@ -4,5 +4,5 @@
 Cara kloning repositori ini:
 
 ```
-> npx degit xxxx/xxxx zzzz
+> npx degit xxxx/xxxx zzzz-test
 ```
