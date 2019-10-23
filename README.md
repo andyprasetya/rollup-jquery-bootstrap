@@ -1,2 +1,2 @@
-# rollup-minicss-webmap
-### A Complete Rollup-based Webmap Template
+# Rollup + jQuery + Bootstrap Template Project
+### A Complete Rollup-based Template for Common Application
