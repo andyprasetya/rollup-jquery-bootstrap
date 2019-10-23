@@ -77,11 +77,11 @@ templates.modalBoxes = function() {
 templates.loginBox = function() {
   let dom = `<div class='form-group'>
       <label for='username'>Username</label>
-      <input type='text' class='form-control' id='username' name='username' placeholder='Username'>
+      <input type='text' class='form-control' id='username' name='username' value='' placeholder='Username'>
     </div>
     <div class='form-group'>
       <label for='password'>Password</label>
-      <input type='password' class='form-control' id='password' name='password' placeholder='Password'>
+      <input type='password' class='form-control' id='password' name='password' value='' placeholder='Password'>
     </div>
     <span id='notice'><div class='alert alert-secondary pl-0 pr-0 text-center' role='alert'>Masukkan username dan password Anda.</div></span>`;
   return dom;
