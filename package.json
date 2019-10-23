@@ -27,7 +27,7 @@
     "tableexport": "latest",
     "leaflet-draw": "latest",
     "leaflet.markercluster": "latest",
-    "leaflet.groupedlayercontrol": "latest",
+    "leaflet-groupedlayercontrol": "latest",
     "leaflet.control.layers.tree": "latest",
     "date-fns": "latest"
   },
