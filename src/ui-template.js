@@ -2,7 +2,7 @@ var templates = {};
 
 templates.topNavigation = function() {
   let dom = `<nav class='navbar navbar-expand-lg navbar-dark bg-dark'>
-    <a class='navbar-brand' href='./'>SIG SATPOLPP Kabupaten Purbalingga</a>
+    <a class='navbar-brand' href='./'>Application Title</a>
     <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarSupportedContent' aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation'>
       <span class='navbar-toggler-icon'></span>
     </button>
@@ -10,18 +10,12 @@ templates.topNavigation = function() {
     <div class='collapse navbar-collapse' id='navbarSupportedContent'>
       <ul class='navbar-nav left-topnav-section mr-auto'>
         <li class='nav-item'>
-          <a id='home' class='nav-link' href='#'><i class='fa fa-home'></i>&nbsp;Beranda <span class='sr-only'>(current)</span></a>
-        </li>
-        <li class='nav-item'>
-          <a id='data' class='nav-link' href='#'><i class='fa fa-bar-chart'></i>&nbsp;Data</a>
-        </li>
-        <li class='nav-item'>
-          <a id='peta' class='nav-link' href='#'><i class='fa fa-map'></i>&nbsp;Peta</a>
+          <a id='home' class='nav-link' href='#'><i class='fa fa-home'></i>&nbsp;Home <span class='sr-only'>(current)</span></a>
         </li>
       </ul>
       <ul class='navbar-nav right-topnav-section'>
         <li class='nav-item'>
-          <a id='login' class='nav-link' href='#'><i class='fa fa-power-off'></i>&nbsp;Login</a>
+          <a id='login' class='nav-link' href='#'><i class='fa fa-lock'></i>&nbsp;Login</a>
         </li>
       </ul>
     </div>
@@ -94,7 +88,7 @@ templates.loginBox = function() {
 }
 
 templates.loginButtons = function() {
-  let dom = `<button type='button' class='btn btn-secondary btn-sm' data-dismiss='modal'><i class='fa fa-power-off'></i>&nbsp;Batal</button>
+  let dom = `<button type='button' class='btn btn-secondary btn-sm' data-dismiss='modal'><i class='fa fa-power-off'></i>&nbsp;Cancel</button>
     <button type='submit' class='btn btn-primary btn-sm'><i class='fa fa-lock'></i>&nbsp;Login</button>`;
   return dom;
 }
