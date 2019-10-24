@@ -1,2 +1,2 @@
-# Rollup + jQuery + Bootstrap Template Project
-### BKAD Kabupaten Kulonprogo
+# MAPATDA BKAD Kabupaten Kulonprogo
+### Manajemen Pendapatan Daerah - BKAD Kabupaten Kulonprogo
