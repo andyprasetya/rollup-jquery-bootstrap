@@ -1,2 +1,2 @@
-# Rollup + jQuery + Bootstrap Template Project
-### A Rollup-based project template for common application
+# MAPATDA BKAD Kabupaten Kulonprogo
+### Manajemen Pendapatan Daerah - BKAD Kabupaten Kulonprogo
