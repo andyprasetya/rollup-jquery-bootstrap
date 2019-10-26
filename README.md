@@ -1,2 +1,2 @@
-# MAPATDA BKAD Kabupaten Kulonprogo
-### Manajemen Pendapatan Daerah - BKAD Kabupaten Kulonprogo
+# Notaris/PPAT Online BKAD Kabupaten Kulonprogo
+### Aplikasi Notaris/PPAT Online - BKAD Kabupaten Kulonprogo
