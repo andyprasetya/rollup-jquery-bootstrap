@@ -15,19 +15,6 @@
     "serve": "^11.0.2"
   },
   "dependencies": {
-    "crypto-js": "latest",
-    "terraformer": "latest",
-    "terraformer-wkt-parser": "latest",
-    "numeral": "latest",
-    "leaflet": "latest",
-    "html2pdf.js": "latest",
-    "datatables": "latest",
-    "file-saverjs": "latest",
-    "tableexport": "latest",
-    "leaflet-draw": "latest",
-    "leaflet.markercluster": "latest",
-    "leaflet-groupedlayercontrol": "latest",
-    "leaflet.control.layers.tree": "latest",
     "date-fns": "latest"
   },
   "scripts": {
