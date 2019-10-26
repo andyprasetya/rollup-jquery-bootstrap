@@ -1,2 +1,2 @@
-# MAPATDA BKAD Kabupaten Kulonprogo
-### Manajemen Pendapatan Daerah - BKAD Kabupaten Kulonprogo
+# DHKP Online BKAD Kabupaten Kulonprogo
+### Daftar Himpunan Ketetapan Pajak PBB-P2 - BKAD Kabupaten Kulonprogo
